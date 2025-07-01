@@ -13,7 +13,7 @@ Projekt uporablja podatke iz javno dostopnih spletnih strani: nobelprize.org, Wi
 Projektna naloga/  
 ├── izlusci_podatke/  
 │ ├── init.py  
-│ ├── .gitignore.py  
+│ ├── .gitignore  
 │ ├── nobelovi_nagrajenci.py  
 │ ├── nobelo_po_drzavah.py  
 │ ├── nobelo_po_spolu.py  
@@ -37,9 +37,10 @@ Projektna naloga/
 V glavni mapi Projektna naloga so mapi izlusci_podatke in podatki.
 V mapi izlusci_podatke se nahajajo .py datoteke. V teh datotekah smo zajeli podatke sa spleta.
 Tudi smo na ta način ostvarili nove .csv in .html datoteke, ki so v mapi podatki. Z uporabo teh, podatke bomo analizirali.
-V glavni mapi imamo še tri datoteke. Ena izmed njih je README.md in v njej so navodila za zagon programa.
-Druga je analiza_podatkov.ipynb, kjer smo z pomočjo Jupyter Notebooka analizirali podatke.
-Tretja je main.py, z pomočjo nje poženemo program.  
+V glavni mapi imamo še štiri datoteke. Ena izmed njih je README.md in v njej so navodila za zagon programa.
+Druga je analiticne_funkcije.py. V njej so vse funkcije, ki jih potrebujemo za analizu znotraj datoteke analiza_podatkov.ipynb.
+Tretja je analiza_podatkov.ipynb, kjer smo z pomočjo Jupyter Notebooka analizirali podatke.
+Četrta je main.py, z pomočjo nje poženemo program.  
 
 ### Opomba
 
