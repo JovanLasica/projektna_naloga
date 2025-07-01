@@ -28,9 +28,9 @@ Projektna naloga/
 | ├── nobel_po_univerzah.html  
 | ├── nobelovi_nagrajenci.csv  
 | ├── nobelovi_nagrajenci.html  
-| ├── podatki_o_drzavah.csv
+| ├── podatki_o_drzavah.csv  
 | └── skupna_tabela.csv  
-├── analiza_podatkov.ipynb
+├── analiza_podatkov.ipynb  
 ├── main.py  
 └── README.md
 
